@@ -1,0 +1,80 @@
+a {
+    color: #000000;
+    text-decoration: none;
+  }
+
+
+a:hover {
+    background-color: #FC6188; 
+    color: #ffffff;
+    
+  }
+ 
+a:active {
+    color: #fab7c8;
+  }
+
+body {
+    background-color: #ffffff;
+}
+
+#footer {
+    border-top: 1px solid #000000;
+    color:#000000;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3px;
+    text-align: center;  
+    padding-top: 15px; 
+}
+
+form {
+    background-color: #f9c3d1;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: "Dancing Script";
+    font-size: 70px;
+    margin-bottom: 5px;
+    margin-left: 7.5px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    background-image: url("images/pawsb.svg");
+    background-repeat: no-repeat;
+    background-position: 100% top;
+    background-color: #FC6188;
+    padding-bottom: 1%;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    padding-left: 2.4%;
+    padding-bottom: 2.4%;
+}
+
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 7.5px;
+}
+
+p {
+    color:#000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    color:#000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
